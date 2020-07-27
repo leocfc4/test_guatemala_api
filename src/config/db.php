@@ -3,8 +3,8 @@
 class DB
 {
     private static $dbHost     = "localhost";
-    private static $dbUser     = "syncasho";
-    private static $dbPassword = "Fw9N65fyrK(Y4@";
+    private static $dbUser     = "syncashoabc";
+    private static $dbPassword = "***Fw9N65fyrK(Y4@***";
     private static $dbName     = "syncasho_prueba_db";
 
     public static function conexion()
