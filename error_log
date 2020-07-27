@@ -1,0 +1,8 @@
+[27-Jul-2020 00:13:02 America/Caracas] PHP Notice:  Undefined index: session in /home/syncasho/public_html/prueba/src/routes/controller.php on line 12
+[27-Jul-2020 00:13:09 America/Caracas] PHP Notice:  Undefined index: user_token in /home/syncasho/public_html/prueba/src/routes/controller.php on line 96
+[27-Jul-2020 00:13:09 America/Caracas] PHP Notice:  Undefined index: user_token in /home/syncasho/public_html/prueba/src/routes/controller.php on line 106
+[27-Jul-2020 00:22:32 America/Caracas] PHP Notice:  Undefined index: session in /home/syncasho/public_html/prueba/src/routes/controller.php on line 12
+[27-Jul-2020 00:31:26 America/Caracas] PHP Notice:  Undefined index: session in /home/syncasho/public_html/prueba/src/routes/controller.php on line 12
+[27-Jul-2020 00:34:23 America/Caracas] PHP Notice:  Undefined index: session in /home/syncasho/public_html/prueba/src/routes/controller.php on line 12
+[27-Jul-2020 00:40:46 America/Caracas] PHP Notice:  Undefined index: session in /home/syncasho/public_html/prueba/src/routes/controller.php on line 12
+[27-Jul-2020 00:45:53 America/Caracas] PHP Notice:  Undefined index: session in /home/syncasho/public_html/prueba/src/routes/controller.php on line 12
